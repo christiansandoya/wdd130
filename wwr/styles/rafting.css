@@ -296,7 +296,7 @@ button:hover {
     margin: 0 auto;
     padding: 0;
     grid-template-columns: 70% 30%;
-    grid-template-rows: 50% 10% 40%;
+    grid-template-rows: 50% 5% 45%;
 } 
 
 .block-1 {
