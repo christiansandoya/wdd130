@@ -291,8 +291,6 @@ button:hover {
 
 .grid-trip {
     display: grid;
-    grid-template-columns: 70% 30%;
-    grid-template-rows: 40% 5% 55%;
     justify-content: center;
     width: 100%;
     margin: 0 auto;
